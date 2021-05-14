@@ -8,4 +8,4 @@ We then used the already trained models to predict sentiment score of the tweets
 
 We performed data analysis on this table and ran queries to gain useful insights.
 
-Tools Technologies and Libraries: Python, Jupyter Notebook, MYSQL, MYSQL Workbench, pandas, scikit-learn, nltk, seaborn, matplotlib, pymysql
+Tools, Technologies and Libraries: Python, Jupyter Notebook, MYSQL, MYSQL Workbench, pandas, scikit-learn, nltk, seaborn, matplotlib, pymysql
